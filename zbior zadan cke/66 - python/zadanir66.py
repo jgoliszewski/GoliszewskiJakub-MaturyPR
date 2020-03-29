@@ -74,7 +74,6 @@ for i, trojka in enumerate(dane):
 			zad4_ciag_max = zad4_ciag_aktual
 		zad4_ciag_aktual = 0
 
-
 with open('wyniki_trojki.txt','w') as w:
 	w.write('1)\n')
 	for x in zad1:
@@ -88,3 +87,7 @@ with open('wyniki_trojki.txt','w') as w:
 	w.write('4)\n')
 	w.write(str(zad4_ile)+'\n'
 			+ str(zad4_ciag_max))
+
+
+for x in zad3:
+	print(x)
