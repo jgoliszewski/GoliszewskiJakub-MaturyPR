@@ -1,0 +1,11 @@
+1)
+70
+[['feycznvjtboxfx', 'gthzgbpglrwjqxqlculgwzdhuevrmvssozrwdjcqcb']]
+2)
+[['kxazlp', 'kxazlpe'], 'e']
+[['ifvjhuqvh', 'ifvjhuqvhcupzcpw'], 'cupzcpw']
+[['aznqxr', 'aznqxryrbgshtceaylwak'], 'yrbgshtceaylwak']
+zad3
+['zccvywdcmjrdokqzcnayixplhkrf', 'sarkqzcnayixplhkrf']
+['iokvlepqzeyvycfjkliiutmzqawwjxgf', 'dfcfyddwodduznkmivqxnrdliiutmzqawwjxgf']
+['psmwjyystgwchofokzvmkmgusfakroambngky', 'mabgusfakroambngky']
