@@ -1,0 +1,34 @@
+1)
+imie	nazwisko
+Sylwia	Adamska
+Marcin	Ciesielski
+Pawel	Dziminski
+Klaudia	Kapuscinska
+Ewelina	Lagun
+Michal	Majewski
+Katarzyna	Michalak
+Kamila	Olobry
+Piotr	Otorowski
+Danuta	Pawezowska
+Tomasz	Stefanczyk
+Pawel	Straciuk
+Monika	Wer
+
+2)
+Marcin	Ciesielski	34017,5
+
+3)
+czerwiec	76
+lipiec	505
+sierpień	291
+wrzesień	28
+
+4)
+kraj	Gdansk	Katowice	Krakow	Lodz	Poznan	Warszawa	Wroclaw
+Bulgaria	22	19	17	12	14	15	23
+Egipt		12	41	12	3	15	17	19
+Grecja		32	28	17	27	17	24	15
+Hiszpania	12	21	9	16	17	21	25
+Maroko		18	11	16	17	15	20	18
+Tunezja		15	17	5	26	11	24	24
+Turcja		18	21	15	28	22	26	11
