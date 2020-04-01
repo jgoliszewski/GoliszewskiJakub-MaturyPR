@@ -1,0 +1,30 @@
+1)
+did
+desired
+destroyed
+devised
+
+
+2)
+wkqoocjqwo
+iujolqzzwr
+udwjtljuip
+tlcpgujurjqk
+yplcjdwotwr
+kqrrfwwcjtl
+mupmwjpqpg
+kqrrfwwcjtl
+wotchfqolwr
+
+
+3)
+['jeden', 'itqtu'] - szyfr - (3, 7)
+['jeden', 'itqtu'] - deszyfr - (9, 15)
+['dwa', 'gzd'] - szyfr - (1, 3)
+['dwa', 'gzd'] - deszyfr - (1, 23)
+['trzy', 'zrxg'] - szyfr - (17, 14)
+['trzy', 'zrxg'] - deszyfr - (23, 16)
+['cztery', 'otdcpm'] - szyfr - (7, 0)
+['cztery', 'otdcpm'] - deszyfr - (15, 0)
+['piec', 'yfjl'] - szyfr - (25, 13)
+['piec', 'yfjl'] - deszyfr - (25, 13)
